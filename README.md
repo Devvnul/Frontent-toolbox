@@ -4,11 +4,12 @@ Repository to serve as a knowledge base for useful tools / libraries for fronten
 Icons
 1. Font Awesome
 2. Feather
-3. Noun Project
-4. Flaticon
-5. Hero Icons
-6. Eva Icons
-7. Material Symbols
-8. Iconmonstr
-9. SVG Repo
-10. Iconduck
+3. Streamlinehq - https://www.streamlinehq.com/freebies
+4. Noun Project
+5. Flaticon
+6. Hero Icons
+7. Eva Icons
+8. Material Symbols
+9. Iconmonstr
+10. SVG Repo
+11. Iconduck
